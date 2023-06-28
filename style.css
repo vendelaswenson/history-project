@@ -13,10 +13,12 @@ header {
 
 h1 {
     margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 h2 {
     margin-bottom: 8%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav {
@@ -110,5 +112,6 @@ footer {
 .event-info--gallery__list {
     list-style: none;
 }
+
 
 
