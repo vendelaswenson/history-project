@@ -45,3 +45,9 @@ Validator Testing
 * CSS - No errors were found when passing through the official (jigsaw) validator 
 
 * Accessibility - I confirmed that the colors and fonts that are chosen are easy to read and accessible ny running it through lighthouse in devtools
+
+Deployment
+* This site was deployed to github pages. The steps are the following:
+*In github repo, navigate to the settings tab
+*From the source section drop-down menu, select the master branch
+*Once the master branch has been selected, the page provided the link to the complete website
