@@ -27,6 +27,9 @@ After the timeline section you have the gallery section. Here you can see some p
 Reference section
 Last but not least you have the reference and further reading section. If you follow these links you can see where I found my information and you can find even more information
 
+## Screenshots
+[Link Text](./print1.png)
+[Link Text](./print2.jpg)
 
 Testing
 * I tested that thos page works in different browsers (Chrome, Firefox, Safari)
