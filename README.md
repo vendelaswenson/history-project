@@ -11,19 +11,19 @@ Whether you are a history enthusiast, a student, or simply curious about this tr
 [Link Text](./print3.png)
 
 
- ## Features
-
+## Features
 Navigation: The top navigation bar provides easy access to different sections of the website.
 
 Header: The header displays the page name with a distinctive blue background, followed by the navigation bar.
 
 ## Sections
-
 Overview: Explore a detailed overview of the French Revolution, its causes, and how it unfolded.
 
 Timeline: Follow the timeline of crucial events that defined the course of the revolution, year by year.
 
 Gallery: Immerse yourself in powerful images capturing the spirit and intensity of the era.
+
+Info: Read and learn about the most important facts about the french revolution.
 
 References: Access a comprehensive list of references and further reading to expand your knowledge.
 
@@ -34,7 +34,6 @@ References: Access a comprehensive list of references and further reading to exp
 
 
 ## Testing
-
 I have thoroughly tested this website to ensure its functionality across different browsers (Chrome, Firefox, Safari) and devices (mobile and desktop). The navigation system has been rigorously tested to guarantee smooth transitions between sections.
 
 * I tested that thos page works in different browsers (Chrome, Firefox, Safari)
@@ -42,12 +41,15 @@ I have thoroughly tested this website to ensure its functionality across differe
 * I tested that the navigation to different section works perfectly
 
 ## Bugs
-
 * Initially, the CSS file was linked as "styles.css," causing styling issues. It was corrected to "style.css" to resolve the problem.
+
+# Unfixed Bugs
+I would like fix the links in the hamburgermenu so that they are under each other in a row
+I would like to fix the background images so it is better fitted
 
 ## Credits
 * Content
-The text and facts are from the links I've linked below and https://alphahistory.com/frenchrevolution/revolutionary-ideas/
+The text and facts are from the links I've linked in reference section and https://alphahistory.com/frenchrevolution/revolutionary-ideas/
 
 * Media
 The photos are from open source sites that you can find on google
