@@ -4,6 +4,18 @@ body {
     padding: 0;
 }
 
+body::after {
+    background-image: url("https://worldinparis.com/wp-content/uploads/2020/06/Execution-King-Louis-XVI.jpg");
+    content: "";
+    opacity: 0.2;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: -1;   
+  }
+
 header {
     background-color: rgb(39, 35, 87);
     color: #fff;
@@ -116,8 +128,6 @@ footer {
 #timeline {
     margin-top: 10rem;
 }
-
-/* ... your existing CSS styles ... */
 
 /* Hamburger menu styles */
 .hamburger-menu {
