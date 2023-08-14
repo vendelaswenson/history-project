@@ -8,7 +8,7 @@ Our website also features a gallery showcasing powerful images that capture the 
 Whether you are a history enthusiast, a student, or simply curious about this transformative period, we invite you to embark on a journey through the French Revolution, uncovering its complexities and significance along the way.
 
 ## Screenshots on homepage
-[Link Text](./screenshots/overview.png)
+[Homepage](./screenshots/overview.png)
 
 
 ## Features
@@ -18,30 +18,30 @@ Header: The header displays the page name with a distinctive blue background, fo
 
 
 ## Screenshots on navbar and hamburgermenu
-[Link Text](./screenshots/navbar.png)
-[Link Text](./screenshots/hamburgermenu.jpg)
+[Navbar](./screenshots/navbar.png)
+[Hamburger menu](./screenshots/hamburgermenu.jpg)
 
 
 ## Sections
 Overview: Explore a detailed overview of the French Revolution, its causes, and how it unfolded.
 ## Screenshot
-[Link Text](./screenshots/overview.png)
+[Overview](./screenshots/overview.png)
 
 Timeline: Follow the timeline of crucial events that defined the course of the revolution, year by year.
 ## Screenshot
-[Link Text](./screenshots/timeline.png)
+[Timeline](./screenshots/timeline.png)
 
 Gallery: Immerse yourself in powerful images capturing the spirit and intensity of the era.
 ## Screenshot
-[Link Text](./screenshots/gallery.png)
+[Gallery](./screenshots/gallery.png)
 
 Information: Read and learn about the most important facts about the french revolution.
 ## Screenshot
-[Link Text](./screenshots/info.png)
+[Information](./screenshots/info.png)
 
 References: Access a comprehensive list of references and further reading to expand your knowledge.
 ## Screenshot
-[Link Text](./screenshots/reference.png)
+[References](./screenshots/reference.png)
 
 
 ## Testing
