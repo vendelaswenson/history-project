@@ -1,11 +1,14 @@
 ## History Project: Exploring the French Revolution
-Welcome to our website dedicated to exploring the French Revolution, one of the most significant events in history. Here, we delve into the causes, key events, and lasting impacts of this transformative period that reshaped the political and social landscape of France.
+Welcome to my website dedicated to exploring the French Revolution, one of the most significant events in history. Here, we delve into the causes, key events, and lasting impacts of this transformative period that reshaped the political and social landscape of France.
 
 Through engaging content and interactive elements, we aim to provide you with a comprehensive overview of the French Revolution, from its origins to its aftermath. Discover the underlying factors that fueled the revolution, explore its timeline of crucial events, and gain insights into the revolutionary ideals that shaped the movement.
 
 Our website also features a gallery showcasing powerful images that capture the spirit and intensity of the era. Additionally, we have compiled a list of reputable references to further your exploration and understanding of this pivotal moment in history.
 
 Whether you are a history enthusiast, a student, or simply curious about this transformative period, we invite you to embark on a journey through the French Revolution, uncovering its complexities and significance along the way.
+
+## Screenshots on homepage
+[Link Text](./print3.png)
 
 
  ## Features
@@ -25,7 +28,7 @@ Gallery: Immerse yourself in powerful images capturing the spirit and intensity 
 References: Access a comprehensive list of references and further reading to expand your knowledge.
 
 
-## Screenshots
+## Screenshots on navbar and hamburgermenu
 [Link Text](./print1.png)
 [Link Text](./print2.jpg)
 
@@ -41,6 +44,15 @@ I have thoroughly tested this website to ensure its functionality across differe
 ## Bugs
 
 * Initially, the CSS file was linked as "styles.css," causing styling issues. It was corrected to "style.css" to resolve the problem.
+
+## Credits
+* Content
+The text and facts are from the links I've linked below and https://alphahistory.com/frenchrevolution/revolutionary-ideas/
+
+* Media
+The photos are from open source sites that you can find on google
+The video is from CrashCourse on youtube
+
 
 
 ## Validator Testing
