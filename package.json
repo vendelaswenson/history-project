@@ -1,0 +1,20 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Welcome to our website dedicated to exploring the French Revolution, one of the most significant events in history. Here, we delve into the causes, key events, and lasting impacts of this transformative period that reshaped the political and social landscape of France.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vendelaswenson/history-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vendelaswenson/history-project/issues"
+  },
+  "homepage": "https://github.com/vendelaswenson/history-project#readme"
+}

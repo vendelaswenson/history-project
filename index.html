@@ -10,15 +10,18 @@
     </header>
 
     <nav class="nav-centered">
-        <ul>
-             <!-- Navigation links -->
+        <div class="hamburger-menu">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <ul class="nav-links">
             <li class="nav-item"><a href="#overview">Overview</a></li>
             <li class="nav-item"><a href="#timeline">Timeline</a></li>
             <li class="nav-item"><a href="#gallery">Gallery</a></li>
             <li class="nav-item"><a href="#references">References</a></li>
         </ul>
     </nav>
-
     <main>
         <!-- Overview section -->
         <section id="overview" class="event-info event-info--overview">
@@ -31,9 +34,17 @@
             <p>The revolution also saw the rise of political factions, such as the Jacobins and Girondins, and the rise of Napoleon Bonaparte, who eventually became the First Consul and later the Emperor of France.</p>
             <p>The French Revolution had a profound impact on the world. It spread the ideas of liberty, equality, and nationalism across Europe and inspired revolutionary movements in other countries. It also led to important political and social reforms in France, including the establishment of a secular state, legal reforms, and the end of feudalism.</p>
             <p>It is important to know about the worlds histoty and by this site I want to provide some information about the french revolution. Here you can find information, images and lots of interesting facts</p>
+                <p>Explore the Epic Tale of Liberty, Equality, and the Birth of Modern Democracy</p>
+                <p>Step into the tumultuous era of the late 18th century and journey through one of history's most significant turning points. Our website is dedicated to bringing you a comprehensive insight into the French Revolution, a period of radical transformation that reshaped nations and ignited the flames of change worldwide.</p>
+                <p>Uncover the causes, pivotal moments, and key figures that defined the revolution. Immerse yourself in the stories of ordinary people who challenged the status quo and set the stage for a new era of political ideals.</p>
+                <p>Our mission is to provide you with a rich tapestry of historical narratives, meticulously curated content, and engaging multimedia. Whether you're a student, history enthusiast, or curious mind, this platform invites you to explore, learn, and reflect on the forces that shaped the modern world.</p>
+        </section>
+
+        <section id="video" class="event-info event-info--video">
+            <h2>Video Clip: The French Revolution</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/5fJl_ZX91l0" frameborder="0" allowfullscreen></iframe>
         </section>
         
-
         <!-- Timeline section -->
         <section id="timeline" class="event-info event-info--timeline">
             <h2>Timeline</h2>
@@ -74,10 +85,10 @@
         <section id="gallery" class="event-info event-info--gallery">
             <h2>Gallery</h2>
             <div class="image-gallery">
-                <img class="gallery-img" src="/project-1/images/img1.jpeg" alt="French Revolution Image 1">
-                <img class="gallery-img" src="/project-1/images/img2.jpeg" alt="French Revolution Image 2">
-                <img class="gallery-img" src="/project-1/images/img3.jpeg" alt="French Revolution Image 3">
-                <img class="gallery-img" src="/project-1/images/img4.jpeg" alt="French Revolution Image 4">
+                <img class="gallery-img" src="/images/img1.jpeg" alt="French Revolution Image 1">
+                <img class="gallery-img" src="/images/img2.jpeg" alt="French Revolution Image 2">
+                <img class="gallery-img" src="/images/img3.jpeg" alt="French Revolution Image 3">
+                <img class="gallery-img" src="/images/img4.jpeg" alt="French Revolution Image 4">
             </div>
         </section>
         
@@ -100,6 +111,17 @@
         </section>
         
     </main>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+    const hamburger = document.querySelector('.hamburger-menu');
+    const navLinks = document.querySelector('.nav-links');
+
+    hamburger.addEventListener('click', function() {
+        navLinks.classList.toggle('show');
+    });
+});
+
+    </script>
 
     <footer>
         <p>&copy; 2023 French revolution Website. All rights reserved.</p>
